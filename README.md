@@ -25,6 +25,8 @@ The corresponding tutorial can be found in the [Aztec docs here](https://docs.az
 
 ---
 
+[🚀 **Getting Started**](#-getting-started)
+
 ## 🚀 **Getting Started**
 
 Use **Node.js version 18**.
